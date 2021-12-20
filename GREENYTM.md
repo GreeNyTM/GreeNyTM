@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GreeNyTM
+- 👀 I’m interested in making Discord Bots in Javascript
+- 🌱 I’m currently learning python, lua
+- 📫 How to reach me: https://dsc.gg/redlighteu
